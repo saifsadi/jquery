@@ -17,7 +17,7 @@ $("body").keypress(function(event){
 });
 
 $("h1").on("mouseover", function(){
-  $("h1").animate({margin: 20});
+  $("h1").animate({margin: 30});
 });
 
 $("h1").on("mouseout", function(){
