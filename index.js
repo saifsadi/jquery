@@ -1,5 +1,5 @@
 $("h1").click(function(){
-  $("h1").text("Clicked");
+  $("h1").text("Good Bye !");
 });
 
 $("h1").addClass("big-title");
